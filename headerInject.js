@@ -41,4 +41,5 @@
 
   // Inject the header into the body or an existing header element in the storefront
   document.body.prepend(header);
+  console.log("Header injected successfully.")
 })();
